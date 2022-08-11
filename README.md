@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AFineZulu
 - 👀 I’m interested in penetration testing, security and software engineering 
 - 🌱 I’m currently learning software engineering and programming 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me ... @thatduh3 on twitter
 
 <!---
